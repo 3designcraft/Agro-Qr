@@ -2,7 +2,7 @@ const cacheName = "DefaultCompany-pruebafigma-1.0";
 const contentToCache = [
     "Build/99937965e867007532deae5bccb7c6b3.loader.js",
     "Build/cce9aac2cb91aee79597deb905e7c32e.framework.js",
-    "Build/fc00c47c6b868c03cc82a1387e719d8c.data",
+    "Build/28a3e6e628978f3197c6cf280a1ac959.data",
     "Build/8143d7b3240268b98f713a2abded2b1d.wasm",
     "TemplateData/style.css"
 
